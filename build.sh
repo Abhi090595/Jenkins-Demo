@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, Jenkins Build Final Test!"
+echo "Hello, Jenkins Final Test!"
